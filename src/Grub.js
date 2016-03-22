@@ -7,3 +7,4 @@ var Grub = function(age, color, food) {
 Grub.prototype.eat = function(){};
 
 
+
